@@ -1,0 +1,15 @@
+{
+  "name": "BDDWithCucumber",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cucumber-js"
+  },
+  "keywords": [],
+  "author": "George Karametas <geometas@hotmail.com> (http://geodoo.work/)",
+  "license": "MIT",
+  "devDependencies": {
+    "cucumber": "6.0.2"
+  }
+}
